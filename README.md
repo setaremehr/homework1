@@ -8,11 +8,6 @@ here's the link my project deployed. https://github.com/setaremehr/homework1/tre
 #I did not any changes on view of the web site 
 #here's some screenshots of my finished product
 
-#  
-![](56B569B6-0E05-4F27-A484-D8E502EE3B89.jpeg)
-#
-![](AF4A56E5-A8E9-451C-89EA-F5B90A93C7F7.jpeg)
-#
-![](3C5A85DA-830A-4BEE-86C7-B5C8874AA23C.jpeg)
+
 #
 ![livescreenshot](BAD8E6E5-B301-4C0F-A353-6472E64A172C.jpeg)
